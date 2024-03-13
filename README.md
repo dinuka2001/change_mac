@@ -2,6 +2,7 @@
 change mac address in Linux like OS
 
 Function Definitions:
+
 print_green(): This function is responsible for displaying messages in green color on the terminal.
 
 print_red(): This function displays messages in red color on the terminal.
