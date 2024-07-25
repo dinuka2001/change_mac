@@ -1,4 +1,4 @@
-# change_mac
+# change_MAC_Address
 change mac address in Linux like OS
 
 Function Definitions:
